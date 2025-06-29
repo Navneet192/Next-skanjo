@@ -1,4 +1,6 @@
 
+import { Zap } from 'lucide-react';
+
 const StatsSection = () => {
   const stats = [
     {
