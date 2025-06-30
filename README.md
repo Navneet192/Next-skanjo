@@ -2,10 +2,8 @@
 
 A clean and responsive web UI built using **Next.js** and **Tailwind CSS**. This project replicates the Skanjo landing page with modern design and animation-ready structure.
 
-## 🚀 Live Preview
-
-You can check the live demo here (if deployed):  
-🔗 [Live Site](https://your-deployment-url.com) *(Update if deployed)*
+Demo Video :
+https://drive.google.com/file/d/1XsTmq2M_kCFqT_2s86s7uMAMBcK3v0SU/view?usp=sharing
 
 ---
 
